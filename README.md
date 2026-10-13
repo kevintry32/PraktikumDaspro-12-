@@ -1,4 +1,4 @@
-Ini adalah repository pertama saya
-Nama : Mohammad Kevin 
-NIM  : 264107060195
-Kelas: SIB 1
+Ini adalah repository pertama saya 
+Nama: MOhammad Kevin
+Nim : 264107060195
+Kelas: SIB 1D
